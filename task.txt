@@ -1,0 +1,3 @@
+1) Creati inca 2 categorii si adaugati in total sa fiu 12 produse pe pagina
+2) Implementati posibiitatea de a trece pe pagina fiecarei categorii
+3) Adaugatu la vizualizarea produsului numele utilizatorului care l-a postat si data 
